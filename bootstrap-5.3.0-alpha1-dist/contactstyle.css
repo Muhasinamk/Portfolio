@@ -1,0 +1,107 @@
+ @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Lilita+One&family=Lobster&display=swap');
+
+*{
+ font-family: 'Lilita One', cursive;
+  }
+
+
+
+body{
+background-image:url('https://images.pexels.com/photos/42408/pexels-photo-42408.jpeg?cs=srgb&dl=pexels-life-of-pix-42408.jpg&fm=jpg');
+background-repeat:no-repeat;
+background-size: cover;
+background-color:#515A5A;
+background-blend-mode:screen;
+
+
+
+}
+.nav-link{
+
+color:#154360  !important;
+font-size:20px;
+
+
+}
+.navbar-brand{
+color:white !important;
+}
+.icons{
+
+margin-left:600px;
+
+}
+.banner{
+margin-left:580px;
+opacity:1px;
+width:80%;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:60%;z
+  position:center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: purple;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-git {
+  background: black;
+  color: white;
+}
+.fa-whatsapp {
+  background: green;
+  color: white;
+}
+.fa-envelope {
+  background: #dd4b39;
+  color: white;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height:50px;
+
+   color: black;
+   text-align: center;
+   font-size:30px;
+}
+form{
+
+margin-left:500px;
+margin-right:500px;
+
+color:black;
+
+
+}
+
+button{
+margin-left:230px;
+margin-right:750px;
+
+}
+.banner{
+font-weight:100px;
+
+}

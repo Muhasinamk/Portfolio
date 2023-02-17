@@ -1,0 +1,70 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Lilita+One&family=Lobster&display=swap');
+
+body{
+background-image:url('https://images.pexels.com/photos/42408/pexels-photo-42408.jpeg?cs=srgb&dl=pexels-life-of-pix-42408.jpg&fm=jpg');
+background-repeat:no-repeat;
+background-size: cover;
+
+}
+
+ *{
+ font-family: 'Lilita One', cursive;
+  }
+
+image{
+opacity:0.5;
+}
+
+header{
+image-align:right;
+
+}
+
+
+.nav-link{
+
+color:#154360 !important;
+font-size:20px;
+
+
+}
+.navbar-brand{
+color:white !important;
+
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.profile {
+
+  bottom: 300px;
+  right: 600px;
+  left:200px;
+
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+ font-weight:700px;
+ font_size:700px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height:50px;
+   font-weight:200px;
+   color: black;
+   text-align: center;
+   font-size:30px;
+}
